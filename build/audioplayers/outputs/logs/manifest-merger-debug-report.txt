@@ -1,0 +1,33 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\92332\Developer\flutter\.pub-cache\hosted\pub.flutter-io.cn\audioplayers-0.7.8\android\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\92332\Developer\flutter\.pub-cache\hosted\pub.flutter-io.cn\audioplayers-0.7.8\android\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\92332\Developer\flutter\.pub-cache\hosted\pub.flutter-io.cn\audioplayers-0.7.8\android\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\92332\Developer\flutter\.pub-cache\hosted\pub.flutter-io.cn\audioplayers-0.7.8\android\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\92332\Developer\flutter\.pub-cache\hosted\pub.flutter-io.cn\audioplayers-0.7.8\android\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\92332\Developer\flutter\.pub-cache\hosted\pub.flutter-io.cn\audioplayers-0.7.8\android\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\92332\Developer\flutter\.pub-cache\hosted\pub.flutter-io.cn\audioplayers-0.7.8\android\src\main\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\92332\Developer\flutter\.pub-cache\hosted\pub.flutter-io.cn\audioplayers-0.7.8\android\src\main\AndroidManifest.xml:2:3-34
+		INJECTED from C:\Users\92332\Developer\flutter\.pub-cache\hosted\pub.flutter-io.cn\audioplayers-0.7.8\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\92332\Developer\flutter\.pub-cache\hosted\pub.flutter-io.cn\audioplayers-0.7.8\android\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\92332\Developer\flutter\.pub-cache\hosted\pub.flutter-io.cn\audioplayers-0.7.8\android\src\main\AndroidManifest.xml:4:3-30
+		INJECTED from C:\Users\92332\Developer\flutter\.pub-cache\hosted\pub.flutter-io.cn\audioplayers-0.7.8\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\92332\Developer\flutter\.pub-cache\hosted\pub.flutter-io.cn\audioplayers-0.7.8\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\92332\Developer\flutter\.pub-cache\hosted\pub.flutter-io.cn\audioplayers-0.7.8\android\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from C:\Users\92332\Developer\flutter\.pub-cache\hosted\pub.flutter-io.cn\audioplayers-0.7.8\android\src\main\AndroidManifest.xml:3:3-26
+		INJECTED from C:\Users\92332\Developer\flutter\.pub-cache\hosted\pub.flutter-io.cn\audioplayers-0.7.8\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\92332\Developer\flutter\.pub-cache\hosted\pub.flutter-io.cn\audioplayers-0.7.8\android\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\92332\Developer\flutter\.pub-cache\hosted\pub.flutter-io.cn\audioplayers-0.7.8\android\src\main\AndroidManifest.xml:6:3-72
+INJECTED from C:\Users\92332\Developer\flutter\.pub-cache\hosted\pub.flutter-io.cn\audioplayers-0.7.8\android\src\main\AndroidManifest.xml:6:3-72
+INJECTED from C:\Users\92332\Developer\flutter\.pub-cache\hosted\pub.flutter-io.cn\audioplayers-0.7.8\android\src\main\AndroidManifest.xml:6:3-72
+	android:targetSdkVersion
+		ADDED from C:\Users\92332\Developer\flutter\.pub-cache\hosted\pub.flutter-io.cn\audioplayers-0.7.8\android\src\main\AndroidManifest.xml:6:40-69
+	android:minSdkVersion
+		ADDED from C:\Users\92332\Developer\flutter\.pub-cache\hosted\pub.flutter-io.cn\audioplayers-0.7.8\android\src\main\AndroidManifest.xml:6:13-39
+		INJECTED from C:\Users\92332\Developer\flutter\.pub-cache\hosted\pub.flutter-io.cn\audioplayers-0.7.8\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\92332\Developer\flutter\.pub-cache\hosted\pub.flutter-io.cn\audioplayers-0.7.8\android\src\main\AndroidManifest.xml

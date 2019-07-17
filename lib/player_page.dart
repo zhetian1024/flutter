@@ -65,10 +65,10 @@ class PlayerState extends State<Player> {
     super.initState();
     print("audioUrl:" + widget.audioUrl);
     Utils.getLyricFromTxt().then((Lyric lyric) {
-      print("getLyricFromTxt:" + lyric.slices.length.toString());
+     // print("getLyricFromTxt:" + lyric.slices.length.toString());
       setState(() {
         this.lyric = lyric;
-        panel = new LyricPanel(this.lyric);
+       panel = new LyricPanel(this.lyric);
       });
     });
 
@@ -90,7 +90,7 @@ class PlayerState extends State<Player> {
           this.position = position;
 
           if (panel != null) {
-            panel.handler(position.inSeconds);
+          //  panel.handler(position.inSeconds);
           }
 
           if (duration != null) {
